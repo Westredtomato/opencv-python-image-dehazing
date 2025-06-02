@@ -1,0 +1,6 @@
+ReadMe
+OpenCV-Python 图像去雾算法
+opencv-python-image-dehazing-algorithm
+利用 OpenCV 库和 Python 编程语言实现的去雾算法。
+OpenCV 是一个广泛使用的计算机视觉库，可以处理图像和视频数据。
+去雾算法的目标是从含有雾霾的图像中恢复清晰的图像，常用于自动驾驶、图像增强等领域。
